@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Chand Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Web Development (Frontend)**
-- 🌱 I love to learn about Codind and team work **
-- 🌱 Feel free to get in touch 👍**
+ I’m currently learning **Web Development (Frontend)
+ I love to learn about Codind and team work.
+ Feel free to get in touch 👍
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
