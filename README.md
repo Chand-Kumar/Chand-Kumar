@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
  <p>🔹 I’m currently learning Web Development (Frontend)</p>
- <p>🔹 I love to learn about Codind and team work.</p>
+ <p>🔹 I love to learn about Coding and team work.</p>
  <p>🔹 Feel free to get in touch 👍</p>
 
 <h3 align="left">Connect with me:</h3>
